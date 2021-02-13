@@ -6,4 +6,4 @@ https://www.linkedin.com/pulse/cicd-dan-deployment-environment-william-gates/
 
 Work Flow CI/CD
 
-[link ke workflow CI/CD](https://github.com/daniwira/devops-batch4-k2/blob/main/soal-4/images/04.png)
+[link ke workflow CI/CD](https://github.com/daniwira/devops-batch4-k2/blob/main/soal-4/images/4.png)
