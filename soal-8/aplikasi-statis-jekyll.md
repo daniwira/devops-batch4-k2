@@ -1,0 +1,1 @@
+[link ke website statis](https://daniwira.github.io/)
