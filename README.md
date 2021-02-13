@@ -3,7 +3,7 @@ Soal &amp; jawaban bootcamp DevOps Batch 4 kloter 2
 
 Sistem operasi yang digunakan Linux Ubuntu 18.04.4 LTS  
 
-<h1>**Reference :**</h1> 
+<h3>Reference :</h3> 
 
 * https://aws.amazon.com/id/devops/what-is-devops/
 * https://www.lucidchart.com/blog/devops-process-flow
