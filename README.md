@@ -15,5 +15,7 @@ Sistem operasi yang digunakan Linux Ubuntu 18.04.4 LTS
 * https://www.jagoanhosting.com/tutorial/glossary/http#:~:text=Secara%20singkat%2C%20cara%20kerja%20HTTP,menunggu%20respon%20dari%20server%20tersebut
 * https://www.nginx.com/resources/glossary/load-balancing/
 * https://www.jagoanhosting.com/blog/apa-sih-server-monitoring-itu/
+* https://www.gangboard.com/blog/aws-vs-openstack
+* https://www.elcreativeacademy.com/2020/03/membuat-blog-jekyll-github-pages.html
 
 
