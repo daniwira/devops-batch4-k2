@@ -10,3 +10,4 @@ https://medium.com/purwadhikaconnect/mengapa-devops-penting-27dd08115ad3#:~:text
 
 **Flow DevOps**
 
+[link ke flow DevOps](https://github.com/daniwira/devops-batch4-k2/blob/main/soal-1/images/01.png)
